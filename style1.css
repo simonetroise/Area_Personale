@@ -1,0 +1,12 @@
+#contact .contact-items {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0;
+}
+
+#contact .contact-item{
+    margin-bottom: 20px;
+}
